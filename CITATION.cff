@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use these data or notebooks, please cite them as below."
+title: "Oral cancer figures: data and notebooks"
+type: software
+authors:
+  - family-names: Shah
+    given-names: Pushti
+repository-code: "https://github.com/shah-pushti/oral-cancer-figures"
+url: "https://shah-pushti.github.io"
+license: MIT
+date-released: "2026-11-17"
+keywords:
+  - oral cancer
+  - cancer epidemiology
+  - cancer screening
+  - data visualisation
