@@ -1,0 +1,6 @@
+stage,description,share_of_cases_percent,five_year_relative_survival_percent,source
+Localised,not spread beyond the site of origin,30,83.7,SEER CSR 1975-2014 Table 20.10
+Regional,spread to nearby tissue or regional lymph nodes,47,64.2,SEER CSR 1975-2014 Table 20.10
+Distant,spread to distant parts of the body,19,38.5,SEER CSR 1975-2014 Table 20.10
+Unstaged,no stage recorded,4,47.9,SEER CSR 1975-2014 Table 20.10
+All stages,all cases,100,64.5,SEER CSR 1975-2014 Table 20.10

@@ -1,0 +1,5 @@
+group,rate_ratio,ci95_low,ci95_high,deaths_intervention,deaths_control,rate_intervention_per_100000_py,rate_control_per_100000_py,source
+All eligible participants,0.79,0.51,1.22,77,87,16.4,20.7,Sankaranarayanan et al. Lancet 2005
+"Users of tobacco, alcohol or both",0.66,0.45,0.95,70,85,29.9,45.4,Sankaranarayanan et al. Lancet 2005
+"Male users of tobacco, alcohol or both",0.57,0.35,0.93,,,,,Sankaranarayanan et al. Lancet 2005
+"Female users of tobacco, alcohol or both",0.78,0.43,1.42,,,,,Sankaranarayanan et al. Lancet 2005

@@ -1,0 +1,11 @@
+arm,stage,count,note,source
+Intervention,eligible people,96517,7 clusters,Sankaranarayanan et al. Lancet 2005
+Intervention,screened at least once,87655,91 percent of eligible,Sankaranarayanan et al. Lancet 2005
+Intervention,screened in all three rounds,29102,30 percent of eligible,Sankaranarayanan et al. Lancet 2005
+Intervention,screen-positive,5145,,Sankaranarayanan et al. Lancet 2005
+Intervention,attended referral,3218,63 percent of screen-positive,Sankaranarayanan et al. Lancet 2005
+Intervention,did not attend referral,1927,37 percent of screen-positive,Sankaranarayanan et al. Lancet 2005
+Intervention,oral precancerous lesions diagnosed,2252,among those who attended referral,Sankaranarayanan et al. Lancet 2005
+Intervention,invasive oral cancer diagnosed,131,among those who attended referral,Sankaranarayanan et al. Lancet 2005
+Intervention,benign lesions or normal findings,835,among those who attended referral,Sankaranarayanan et al. Lancet 2005
+Control,eligible people,95356,6 clusters; no screening rounds,Sankaranarayanan et al. Lancet 2005
